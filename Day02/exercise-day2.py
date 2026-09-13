@@ -15,4 +15,4 @@ price = float(input("How much does it costs?: "))
 quantity = int(input("How many would you like?: "))
 total = price * quantity
 print(f"You ordered {quantity} {item}/s.")
-print(f"Your total is: ${total}")
+print(f"Your total is: ${total}.")
