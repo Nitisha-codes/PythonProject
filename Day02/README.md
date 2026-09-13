@@ -32,7 +32,7 @@ Beyond just following along, I built two small programs to actually use what I l
 - `.gitignore` (repo-level) — now keeps `.venv` and `.idea` out of future commits
 
 ## 📌 Tomorrow
-Moving on — hopefully with a calmer Git experience this time. 😅
+Moving on — hopefully with a calmer Git experience this time....😅
 
 ---
 🔐 *Day 2 of documenting my path into cybersecurity — turns out learning Git is its own subject entirely.*
