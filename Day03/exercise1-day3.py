@@ -5,4 +5,4 @@ import math
 
 r = float(input("Enter the radius of the circle: "))
 circ = math.pi * 2 * r
-print(f"The circumference of the circle is {circ}cm².")
+print(f"The circumference of the circle is {round(circ,3)}cm.")
