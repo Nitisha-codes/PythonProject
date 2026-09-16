@@ -30,6 +30,7 @@ elif marks >= 20 and marks < 30:
     print("You got an E!")
     print("Sorry. Your performance was insufficient!")
 else:
+    print("You are not graded!")
     print("Sorry. You failed!")
     print("Better luck next time!")
 
