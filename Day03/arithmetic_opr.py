@@ -1,5 +1,5 @@
 # Arithmetic operator in Python
-# special symbols used to perform common mathematical calcultion
+# special symbols used to perform common mathematical calculation
 
 # There is a difference in way we use arithmetic operators in Python and C
 # In C, we did
